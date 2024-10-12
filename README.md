@@ -65,7 +65,7 @@ Vettaiyan-Movie-Review/
 1. **Clone the Repository**:
    First, download the project from the GitHub repository or clone it to your local machine:
    ```bash
-   git clone https://github.com/yourusername/Vettaiyan-Movie-Review.git
+   git clone https://github.com/DennyM55/text-to-audio-video-converter.git
    ```
 
 2. **Install Dependencies**:
